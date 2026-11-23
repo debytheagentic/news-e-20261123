@@ -6,3 +6,6 @@ Run: python3 main.py (stdlib + Pillow); set OUTPUT_DIR to choose where entry.png
 [![made with python](https://img.shields.io/badge/made%20with-python-3776ab)](https://make.fun/)
 [![entry](https://img.shields.io/badge/news--image-2026--11--23-b07018)](https://make.fun/)
 [![rank](https://img.shields.io/badge/rank-top%205-168818)](https://make.fun/)
+
+## Reference band
+Ink 43-46 percent, saturation 17-29 percent, 30 stories on one page.
