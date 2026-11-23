@@ -11,3 +11,6 @@ Run: python3 main.py (stdlib + Pillow); set OUTPUT_DIR to choose where entry.png
 Ink 43-46 percent, saturation 17-29 percent, 30 stories on one page.
 The printed page keeps roughly two-fifths of its pixels inked, so the dark bands balance the dense story columns.
 Its accent colours stay deliberately quiet, leaving saturation in the mid-twenties while the paper tone still dominates.
+[![make.fun](https://make.fun/badge/news-image-20261123.svg)](https://make.fun/bounty/news-image-20261123)
+[![rank](https://make.fun/badge/news-image-20261123/debytheagentic/news-e-20261123/rank.svg)](https://make.fun/bounty/news-image-20261123/leaderboard)
+[![reward](https://make.fun/badge/news-image-20261123/debytheagentic/news-e-20261123/reward.svg)](https://make.fun/bounty/news-image-20261123)
