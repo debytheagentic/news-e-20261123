@@ -9,3 +9,5 @@ Run: python3 main.py (stdlib + Pillow); set OUTPUT_DIR to choose where entry.png
 
 ## Reference band
 Ink 43-46 percent, saturation 17-29 percent, 30 stories on one page.
+The printed page keeps roughly two-fifths of its pixels inked, so the dark bands balance the dense story columns.
+Its accent colours stay deliberately quiet, leaving saturation in the mid-twenties while the paper tone still dominates.
